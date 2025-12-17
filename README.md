@@ -1,5 +1,9 @@
 # Supriya-Bachal
 # Hi, I’m Supriya Bachal 👋  
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![LLMs](https://img.shields.io/badge/LLMs-Evaluation%20%7C%20Reliability-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active-success)
+
 
  **AI Engineer |AI/MLOps | Civic-Tech Builder | AI Governance| Researcher**  
 📍 Michigan, USA | 🌏 Building tech for real-world impact  
