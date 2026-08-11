@@ -34,7 +34,7 @@ A lightweight Python library for **evaluating large language models** beyond acc
 - Designed for production LLM pipelines
 - PyPI published
 
-👉 https://github.com/supriyabachal/llm-metrics-lite
+👉https://github.com/supriyabachal/llm_metrics_lite
 
 ---
 
